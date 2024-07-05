@@ -44,16 +44,4 @@ Frappe HR has everything you need to drive excellence within the company. It's a
 ## Learning and Community
 
 1. [Documentation](https://frappehr.com/docs) - Extensive documentation for Frappe HR.
-2. [User Forum](https://discuss.erpnext.com/) - Engage with the community of ERPNext users and service providers.
-3. [Telegram Group](https://t.me/frappehr) - Get instant help from the community of users.
 
-## Contribute
-
-1. [Issue Guidelines](https://github.com/frappe/erpnext/wiki/Issue-Guidelines) - [Create an issue](https://github.com/frappe/hrms/issues/new)
-1. [Contribution Guidelines](https://github.com/frappe/erpnext/wiki/Contribution-Guidelines)
-
-## License
-
-GNU GPL V3. (See [license.txt](license.txt) for more information).
-
-The HR code is licensed as GNU General Public License (v3) and the copyright is owned by Frappe Technologies Pvt Ltd (Frappe) and Contributors.
